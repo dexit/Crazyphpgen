@@ -1,0 +1,6 @@
+{
+  "name": "GridBloc PHP - Isomorphic Visual Solution Scaffold",
+  "description": "Visual 12-column grid isomorphic UI BLoC builder and PHP 8.3 modern solution scaffolder with live preview, code generator, and architecture exporter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
